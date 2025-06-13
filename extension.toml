@@ -1,7 +1,7 @@
-id = "jetbrains-rider-dark"
-name = "JetBrains Rider Dark"
+id = "jetbrains-rider"
+name = "JetBrains Rider"
 version = "0.0.1"
 schema_version = 1
 authors = ["RajaSunrise <indra020204@gmail.com>"]
-description = "Dark JetBrains Rider themes"
+description = "Light and Dark JetBrains Rider themes"
 repository = "https://github.com/NarmadaWeb/jetbrains-rider-zed"
