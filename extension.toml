@@ -1,6 +1,6 @@
 id = "jetbrains-rider"
 name = "JetBrains Rider"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["RajaSunrise <indra020204@gmail.com>"]
 description = "Light and Dark JetBrains Rider themes"
